@@ -104,5 +104,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/lyssom/sly.github.io
+  repo: https://github.com/lyssom/sly.github.io.git
   branch: master
